@@ -15,7 +15,7 @@ public class EnterTask extends AppCompatActivity {
     private ItemAvg inherited;
     private Task curTask;
     private Button doneButton;
-    // TODO: add delete function functionality
+    // TODO: add delete button functionality
     private SeekBar seekBar1;
     private SeekBar seekBar2;
     private SeekBar seekBar3;
